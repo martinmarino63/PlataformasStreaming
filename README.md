@@ -8,3 +8,10 @@ Se utilizarán las bases de datos de las respectivas plataformas a analizar (Net
 más en un tipo de contenido que otra.
 
 Gracias a los datos se analizará el tipo de contenido que se encuentra en cada plataforma (ya sea una película o serie), la duración y los géneros, para que el cliente pueda determinar que plataforma se adapta más a sus gustos e intereses.
+
+--- Conclusión ---
+
+Si bien en este proyecto se ha podido abordar de forma correcta en base al objetivo principal del análisis, se podría complejizar más con el fin de responder otras incógnitas. Se ha pensado incluir a futuro datasets con la cantidad de suscripciones por plataforma por año, con el fin de relacionar dicha cantidad con la disponibilidad del contenido por plataforma. 
+También se podría incluir datasets con información geográfica sobre la disponibilidad de contenido por continente y países, es bien sabido que no todo el contenido está disponible en todos los países, por eso es que cada vez se utilizan más los servicios de VPN (Virtual Private Network) con el fin de acceder a los mismos, pese a estar en un país que no tiene habilitado dichos contenidos.
+
+Para finalizar, personalmente estoy muy contento con este proyecto; he aprendido y me he equivocado mucho a lo largo de estos meses de trabajo. Sin duda alguna hay cosas que se han abordado más en detalle y otras en una mirada más general, pero con las ideas futuras planteadas en el punto anterior, confío plenamente en que la utilidad del proyecto crecerá increíblemente.
